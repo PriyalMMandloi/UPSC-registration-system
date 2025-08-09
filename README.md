@@ -38,4 +38,5 @@ This project is a CLI-based registration system for UPSC applicants using Python
 
 ## Author
 
-Anand Kishore
+Priyal Mandloi
+
